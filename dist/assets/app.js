@@ -17,25 +17,6 @@ const CATEGORY_ORDER = [
   "Datasets & Benchmarks",
 ];
 
-const CATEGORY_LABELS = {
-  "Surveys & Background": "综述与研究背景",
-  "Single-Agent Foundations": "单智能体 3D 检测基础",
-  "Collaborative Foundations": "协同感知基础工作",
-  "Early Collaboration": "前融合 · Early Collaboration",
-  "Intermediate · Dense Features": "中间融合 · 稠密特征",
-  "Intermediate · Sparse & Efficient": "中间融合 · 稀疏与高效通信",
-  "Intermediate · Object & Query": "中间融合 · 目标与查询",
-  "Late Collaboration": "后融合 · Late Collaboration",
-  "Hybrid Collaboration": "混合融合 · Hybrid Collaboration",
-  "Spatiotemporal Alignment": "时空对齐",
-  "Communication & Fusion": "通信与融合机制",
-  "Heterogeneous Collaboration": "异构协同感知",
-  "Trustworthy Collaboration": "可信、鲁棒与安全协同",
-  "Cross-Platform Collaboration": "跨平台协作",
-  "Platforms & Tooling": "仿真平台与工具",
-  "Datasets & Benchmarks": "数据集与基准",
-};
-
 const state = { papers: [], query: "", codeOnly: false };
 
 const elements = {
@@ -72,7 +53,7 @@ function renderNavigation() {
     .map(
       (category) => `
         <a href="#${categoryId(category)}">
-          <span>${escapeHtml(CATEGORY_LABELS[category] || category)}</span>
+          <span>${escapeHtml(category)}</span>
           <small>${counts.get(category)}</small>
         </a>`,
     )
@@ -98,9 +79,9 @@ function paperEntry(paper) {
 
   return `
     <article class="paper-entry">
+      <p class="venue">${escapeHtml(paper.venue || paper.year || "")}</p>
       <h3><span class="reference-number">[${paper.id}]</span> ${escapeHtml(paper.title)}</h3>
       <p class="authors">${escapeHtml(paper.authors || "Author information unavailable")}</p>
-      <p class="venue">${escapeHtml(paper.venue || paper.year || "")}</p>
       <p class="paper-links">
         <a href="${escapeHtml(paper.paperUrl)}" target="_blank" rel="noreferrer">[${paperLabel}]</a>${codeLink}
       </p>
@@ -112,7 +93,9 @@ function renderPapers() {
   const papers = getFilteredPapers();
   const grouped = CATEGORY_ORDER.map((category) => ({
     category,
-    papers: papers.filter((paper) => paper.category === category),
+    papers: papers
+      .filter((paper) => paper.category === category)
+      .sort((a, b) => (Number(b.year) || 0) - (Number(a.year) || 0) || Number(a.id) - Number(b.id)),
   })).filter((group) => group.papers.length);
 
   elements.list.innerHTML = grouped
@@ -120,15 +103,15 @@ function renderPapers() {
       ({ category, papers: categoryPapers }) => `
         <section class="paper-group" id="${categoryId(category)}">
           <div class="group-heading">
-            <h2>${escapeHtml(CATEGORY_LABELS[category] || category)}</h2>
-            <span>${categoryPapers.length} 篇</span>
+            <h2>${escapeHtml(category)}</h2>
+            <span>${categoryPapers.length} papers</span>
           </div>
           <div class="group-list">${categoryPapers.map(paperEntry).join("")}</div>
         </section>`,
     )
     .join("");
 
-  elements.count.textContent = `显示 ${papers.length} / ${state.papers.length} 篇`;
+  elements.count.textContent = `Showing ${papers.length} of ${state.papers.length} papers`;
   elements.emptyState.hidden = papers.length !== 0;
   elements.list.hidden = papers.length === 0;
 }
@@ -155,9 +138,9 @@ async function init() {
     renderNavigation();
     renderPapers();
   } catch (error) {
-    elements.count.textContent = "文献数据载入失败，请通过网页服务器访问本站。";
+    elements.count.textContent = "Paper data could not be loaded. Please access this site through a web server.";
     elements.emptyState.hidden = false;
-    elements.emptyState.querySelector("strong").textContent = "无法载入文献数据";
+    elements.emptyState.querySelector("strong").textContent = "Unable to load paper data";
     elements.emptyState.querySelector("p").textContent = error.message;
   }
 }

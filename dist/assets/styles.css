@@ -286,10 +286,12 @@ h1 {
 }
 
 .venue {
-  margin-bottom: 3px;
-  color: var(--muted);
-  font-size: 0.92rem;
-  font-style: italic;
+  margin-bottom: 4px;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 750;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .paper-links {
