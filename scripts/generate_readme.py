@@ -83,20 +83,7 @@ for index, category in enumerate(CATEGORIES, start=1):
         if paper.get("note"):
             lines.append(f'  - Note: {paper["note"]}')
 
-    lines.extend(["", "[↑ Back to categories](#categories)", "", "---", ""])
-
-lines.extend(
-    [
-        "## Data and website",
-        "",
-        "- Structured data: [papers.json](dist/assets/papers.json)",
-        "- Website entry point: [dist/index.html](dist/index.html)",
-        "- Regenerate this README with `python scripts/generate_readme.py`",
-        "",
-        "Paper links point to arXiv, OpenReview, or the publisher whenever possible. Entries labeled Scholar use a search link. Code links are shown only for verified repositories.",
-        "",
-    ]
-)
+    lines.extend(["", "[↑ Back to categories](#categories)", ""])
 
 README_PATH.write_text("\n".join(lines), encoding="utf-8")
 print(f"wrote README with {len(papers)} papers in {len(CATEGORIES)} categories")

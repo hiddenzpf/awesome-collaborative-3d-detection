@@ -40,8 +40,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 [↑ Back to categories](#categories)
 
----
-
 <a id="category-02"></a>
 
 ## Single-Agent Foundations
@@ -65,8 +63,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 [↑ Back to categories](#categories)
 
----
-
 <a id="category-03"></a>
 
 ## Collaborative Foundations
@@ -80,8 +76,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 [↑ Back to categories](#categories)
 
----
-
 <a id="category-04"></a>
 
 ## Early Collaboration
@@ -93,8 +87,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 - **arXiv 2026** · **[52] CoLC** (Communication-Efficient Collaborative Perception with LiDAR Completion) [[paper](https://arxiv.org/abs/2603.00682)]
 
 [↑ Back to categories](#categories)
-
----
 
 <a id="category-05"></a>
 
@@ -118,8 +110,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 [↑ Back to categories](#categories)
 
----
-
 <a id="category-06"></a>
 
 ## Intermediate · Sparse & Efficient
@@ -139,8 +129,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 [↑ Back to categories](#categories)
 
----
-
 <a id="category-07"></a>
 
 ## Intermediate · Object & Query
@@ -154,8 +142,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 [↑ Back to categories](#categories)
 
----
-
 <a id="category-08"></a>
 
 ## Late Collaboration
@@ -164,8 +150,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 - **arXiv 2025** · **[84] A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion** [[paper](https://arxiv.org/abs/2507.02430)]
 
 [↑ Back to categories](#categories)
-
----
 
 <a id="category-09"></a>
 
@@ -176,8 +160,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 - **CVPR 2025** · **[87] CoSDH** (Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization) [[scholar](https://scholar.google.com/scholar?q=Cosdh%3ACommunicationefficientcollaborativeperceptionviasupply-demandawareness+and+intermediate-late+hybridization)]
 
 [↑ Back to categories](#categories)
-
----
 
 <a id="category-10"></a>
 
@@ -200,8 +182,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 [↑ Back to categories](#categories)
 
----
-
 <a id="category-11"></a>
 
 ## Communication & Fusion
@@ -214,8 +194,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 - **IEEE RA-L 2025** · **[46] V2XPnP** (Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction) [[scholar](https://scholar.google.com/scholar?q=V2xpnp%3AVehicle-to-everything+spatio-temporal+fusion+for+multi-agent+perception+and+prediction)]
 
 [↑ Back to categories](#categories)
-
----
 
 <a id="category-12"></a>
 
@@ -234,8 +212,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 [↑ Back to categories](#categories)
 
----
-
 <a id="category-13"></a>
 
 ## Trustworthy Collaboration
@@ -251,8 +227,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 [↑ Back to categories](#categories)
 
----
-
 <a id="category-14"></a>
 
 ## Cross-Platform Collaboration
@@ -260,8 +234,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 - **2025** · **[43] UVCPNet** (A UAV-Vehicle Collaborative Perception Network for 3D Object Detection) [[scholar](https://scholar.google.com/scholar?q=Uvcpnet%3A+A+uav-vehicle+collaborative+perception+networkfor3Dobjectdetection)]
 
 [↑ Back to categories](#categories)
-
----
 
 <a id="category-15"></a>
 
@@ -277,8 +249,6 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 - **CVPR 2022** · **[119] Coopernaut** (End-to-End Driving with Cooperative Perception for Networked Vehicles) [[scholar](https://scholar.google.com/scholar?q=Coopernaut%3A+End-to-end+driving+with+cooperative+perception+for+networked+vehicles)] [[code](https://github.com/UT-Austin-RPL/Coopernaut)]
 
 [↑ Back to categories](#categories)
-
----
 
 <a id="category-16"></a>
 
@@ -307,13 +277,3 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 - **CVPR 2026** · **[138] CATS-V2V** (A Real-World Vehicle-to-Vehicle Cooperative Perception Dataset with Complex Adverse Traffic Scenarios) [[scholar](https://scholar.google.com/scholar?q=Cats-v2v%3A+A+real-world+vehicle-to-vehicle+cooperativeperceptiondatasetwithcomplexadversetrafficscenarios)]
 
 [↑ Back to categories](#categories)
-
----
-
-## Data and website
-
-- Structured data: [papers.json](dist/assets/papers.json)
-- Website entry point: [dist/index.html](dist/index.html)
-- Regenerate this README with `python scripts/generate_readme.py`
-
-Paper links point to arXiv, OpenReview, or the publisher whenever possible. Entries labeled Scholar use a search link. Code links are shown only for verified repositories.
