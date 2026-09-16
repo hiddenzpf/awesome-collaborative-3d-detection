@@ -55,9 +55,9 @@ T. Huang, J. Liu, X. Zhou, D. C. Nguyen, M. R. Azghadi, Y. Xia, Q.-L. Han, and S
 [[Paper](https://arxiv.org/abs/2310.03525)]
 
 **[35] A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real-World Challenges**  
-M.Yazgan, T.Graf, M.Liu, T.Fleck, andJ.M.Zo¨llner  
-*2024*  
-[[Scholar](https://scholar.google.com/scholar?q=Asurveyonintermediatefusionmethodsforcollaborativeperception+%2CVOL.XX%2CNO.X%2CMONTHYEAR+18+categorizedbyrealworldchallenges)]
+M. Yazgan, T. Graf, M. Liu, T. Fleck, and J. M. Zöllner  
+*IEEE IV 2024*  
+[[Paper](https://arxiv.org/abs/2404.16139)]
 
 **[36] Collaborative Perception Datasets for Autonomous Driving: A Review**  
 N.Wang, D.Shang, Y.Gong, X.Hu, Z.Song, L.Yang, Y.Huang, X. Wang, and J. Lu  
