@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Multi-Agent Collaborative 3D Object Detection 综述文献列表：按照综述分类整理 Paper 与 Code 链接。"
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <title>Collaborative 3D Detection · Paper List</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+    <script src="assets/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#paper-list">跳到文献列表</a>
+
+    <header class="site-header">
+      <div class="page-shell">
+        <p class="kicker">TPAMI SURVEY · CURATED READING LIST</p>
+        <h1>Multi-Agent Collaborative<br />3D Detection</h1>
+        <p class="intro">
+          按照综述中的方法体系整理参考文献。每项保留原文参考文献编号，并提供论文地址与已核验的公开代码地址。
+        </p>
+        <div class="stats" aria-label="文献统计">
+          <span><strong id="stat-total">139</strong> papers</span>
+          <span><strong id="stat-code">—</strong> with code</span>
+          <span><strong id="stat-years">2017–2026</strong></span>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-shell">
+      <section class="browse" aria-labelledby="browse-title">
+        <div class="section-intro">
+          <div>
+            <p class="kicker">BROWSE BY SURVEY TAXONOMY</p>
+            <h2 id="browse-title">按文章分类</h2>
+          </div>
+          <p>分类覆盖协作阶段、关键技术、平台与数据集。同一论文按综述中最主要的讨论位置归入一个类别。</p>
+        </div>
+
+        <nav id="category-nav" class="category-nav" aria-label="文献分类导航"></nav>
+
+        <div class="toolbar" aria-label="检索文献">
+          <label class="search-field" for="search-input">
+            <span>搜索标题、作者或编号</span>
+            <input id="search-input" type="search" placeholder="例如：Where2comm / Y. Hu / 26" autocomplete="off" />
+          </label>
+          <label class="code-only" for="code-only">
+            <input id="code-only" type="checkbox" />
+            <span>只看有代码</span>
+          </label>
+          <button id="reset-filters" type="button">清除筛选</button>
+          <p id="result-count" role="status" aria-live="polite">正在载入文献…</p>
+        </div>
+
+        <div id="paper-list" class="paper-groups" tabindex="-1"></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <strong>没有匹配的文献</strong>
+          <p>试试更短的关键词，或清除筛选。</p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="page-shell">
+        <p>Paper 链接优先指向 arXiv、OpenReview 或出版页；Code 仅展示已核验仓库。</p>
+        <p>分类依据综述正文 · Link check: 2026-09-16</p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,2256 @@
+[
+  {
+    "id": 1,
+    "title": "Deep Learning for 3D Point Clouds: A Survey",
+    "authors": "Y. Guo, H. Wang, Q. Hu, H. Liu, L. Liu, and M. Bennamoun",
+    "year": 2020,
+    "venue": "IEEE TPAMI 2020",
+    "category": "Surveys & Background",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://doi.org/10.1109/tpami.2020.3005434",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 2,
+    "title": "3D Object Detection for Autonomous Driving: A Comprehensive Survey",
+    "authors": "J. Mao, S. Shi, X. Wang, and H. Li",
+    "year": 2023,
+    "venue": "IJCV 2023",
+    "category": "Surveys & Background",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://doi.org/10.1007/s11263-023-01790-1",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 3,
+    "title": "Multi-Modal 3D Object Detection in Autonomous Driving: A Survey",
+    "authors": "Y. Wang, Q. Mao, H. Zhu, J. Deng, Y. Zhang, J. Ji, H. Li, and Y.Zhang",
+    "year": 2023,
+    "venue": "IJCV 2023",
+    "category": "Surveys & Background",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Multi-modal3Dobjectdetectioninautonomousdriving%3Aasurvey",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 4,
+    "title": "VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection",
+    "authors": "Y.ZhouandO.Tuzel",
+    "year": 2018,
+    "venue": "CVPR 2018",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=VoxelNet%3AEnd-to-endlearningforpoint+cloudbased3Dobjectdetection",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 5,
+    "title": "PointPillars: Fast Encoders for Object Detection from Point Clouds",
+    "authors": "A. H. Lang, S. Vora, H. Caesar, L. Zhou, J. Yang, and O. Beijbom",
+    "year": 2019,
+    "venue": "CVPR 2019",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=PointPillars%3AFastencodersforobjectdetectionfrompoint+clouds",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/nutonomy/second.pytorch",
+    "codeNote": "reference implementation",
+    "note": null
+  },
+  {
+    "id": 6,
+    "title": "SECOND: Sparsely Embedded Convolutional Detection",
+    "authors": "Y.Yan, Y.Mao, andB.Li",
+    "year": 2018,
+    "venue": "Sensors 2018",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=SECOND%3ASparselyembeddedconvolutionaldetection",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/traveller59/second.pytorch",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 7,
+    "title": "PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud",
+    "authors": "S. Shi, X. Wang, and H. Li",
+    "year": 2019,
+    "venue": "CVPR 2019",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=PointRCNN%3A+3D+object+proposal+generationanddetectionfrompointcloud",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/sshaoshuai/PointRCNN",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 8,
+    "title": "3DSSD: Point-Based 3D Single Stage Object Detector",
+    "authors": "Z.Yang, Y.Sun, S.Liu, andJ.Jia",
+    "year": 2020,
+    "venue": "CVPR 2020",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=3DSSD%3APoint-based3Dsingle+stageobjectdetector",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 9,
+    "title": "AnchorPoint: Query Design for Transformer-Based 3D Object Detection and Tracking",
+    "authors": "H. Liu, Y. Ma, H. Wang, C. Zhang, and Y. Guo",
+    "year": 2023,
+    "venue": "IEEE T-ITS 2023",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://doi.org/10.1109/tits.2023.3282204",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 10,
+    "title": "PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection",
+    "authors": "S.Shi, C.Guo, L.Jiang, Z.Wang, J.Shi, X.Wang, andH.Li",
+    "year": 2020,
+    "venue": "CVPR 2020",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Pvrcnn%3APoint-voxelfeaturesetabstractionfor3Dobjectdetection",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/open-mmlab/OpenPCDet",
+    "codeNote": "framework implementation",
+    "note": null
+  },
+  {
+    "id": 11,
+    "title": "PV-RCNN++: Point-Voxel Feature Set Abstraction with Local Vector Representation for 3D Object Detection",
+    "authors": "S.Shi, L.Jiang, J.Deng, Z.Wang, C.Guo, J.Shi, X.Wang, and H.Li",
+    "year": 2023,
+    "venue": "IJCV 2023",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Pv-rcnn%2B%2B%3APoint-voxelfeaturesetabstractionwithlocal+vector+representation+for+3D+object+detection",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/open-mmlab/OpenPCDet",
+    "codeNote": "framework implementation",
+    "note": null
+  },
+  {
+    "id": 12,
+    "title": "Center-Based 3D Object Detection and Tracking",
+    "authors": "T. Yin, X. Zhou, and P. Krahenbuhl",
+    "year": 2021,
+    "venue": "CVPR 2021",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Center-based+3D+object+detectionandtracking",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/tianweiy/CenterPoint",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 13,
+    "title": "BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation",
+    "authors": "Z.Liu, H.Tang, A.Amini, X.Yang, H.Mao, D.Rus, andS.Han",
+    "year": 2022,
+    "venue": "arXiv 2022",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "multi-modal"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2205.13542",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/mit-han-lab/bevfusion",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 14,
+    "title": "TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers",
+    "authors": "X.Bai, Z.Hu, X.Zhu, Q.Huang, Y.Chen, H.Fu, andC.-L.Tai",
+    "year": 2022,
+    "venue": "CVPR 2022",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Transfusion%3ARobustlidar-camerafusionfor3Dobjectdetection+withtransformers",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/XuyangBai/TransFusion",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 15,
+    "title": "DeepInteraction: 3D Object Detection via Modality Interaction",
+    "authors": "Z.Yang, J.Chen, Z.Miao, W.Li, X.Zhu, andL.Zhang",
+    "year": 2022,
+    "venue": "NeurIPS 2022",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Deepinteraction%3A3Dobjectdetectionviamodalityinteraction",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/fudan-zvg/DeepInteraction",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 16,
+    "title": "FUTR3D: A Unified Sensor Fusion Framework for 3D Detection",
+    "authors": "X.Chen, T. Zhang, Y. Wang, Y.Wang, and H.Zhao",
+    "year": 2023,
+    "venue": "CVPR 2023",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=FUTR3D%3A+Aunifiedsensorfusionframeworkfor3Ddetection",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/Tsinghua-MARS-Lab/futr3d",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 17,
+    "title": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation",
+    "authors": "C.R.Qi, H.Su, K.Mo, andL.J.Guibas",
+    "year": 2017,
+    "venue": "CVPR 2017",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=PointNet%3ADeeplearning+onpointsetsfor3Dclassificationandsegmentation",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/charlesq34/pointnet",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 18,
+    "title": "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space",
+    "authors": "C. R. Qi, L. Yi, H. Su, and L. J. Guibas",
+    "year": 2017,
+    "venue": "NeurIPS 2017",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=PointNet%2B%2B%3A+Deep+hierarchicalfeaturelearningonpointsetsinametricspace",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/charlesq34/pointnet2",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 19,
+    "title": "3D Semantic Segmentation with Submanifold Sparse Convolutional Networks",
+    "authors": "B.Graham, M.Engelcke, andL.VanDerMaaten",
+    "year": 2018,
+    "venue": "CVPR 2018",
+    "category": "Single-Agent Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=3Dsemantic+segmentationwithsubmanifoldsparseconvolutionalnetworks",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/facebookresearch/SparseConvNet",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 20,
+    "title": "Cooperative Perception for 3D Object Detection in Driving Scenarios Using Infrastructure Sensors",
+    "authors": "E.Arnold, M.Dianati, R.DeTemple, andS.Fallah",
+    "year": 2020,
+    "venue": "IEEE T-ITS 2020",
+    "category": "Collaborative Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://arxiv.org/pdf/1912.12147",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 21,
+    "title": "OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication",
+    "authors": "R. Xu, H. Xiang, X. Xia, X. Han, J. Li, and J. Ma",
+    "year": 2022,
+    "venue": "ICRA 2022",
+    "category": "Collaborative Foundations",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Opv2v%3A+An+openbenchmarkdatasetandfusionpipelineforperceptionwith+vehicle-to-vehicle+communication",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/DerrickXuNu/OpenCOOD",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 22,
+    "title": "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer",
+    "authors": "R.Xu, H.Xiang, Z.Tu, X.Xia, M.-H.Yang, andJ.Ma",
+    "year": 2022,
+    "venue": "ECCV 2022",
+    "category": "Collaborative Foundations",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://doi.org/10.1007/978-3-031-19842-7_7",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/DerrickXuNu/v2x-vit",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 23,
+    "title": "DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection",
+    "authors": "H. Yu, Y. Luo, M. Shu, Y. Huo, Z. Yang, Y. Shi, Z. Guo, H. Li, X.Hu, J.Yuanetal.",
+    "year": 2022,
+    "venue": "CVPR 2022",
+    "category": "Collaborative Foundations",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Dair-v2x%3AAlarge-scaledatasetforvehicleinfrastructure+cooperative+3D+object+detection",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/AIR-THU/DAIR-V2X",
+    "codeNote": "official code / data tools",
+    "note": null
+  },
+  {
+    "id": 24,
+    "title": "V2V4Real: A Real-World Large-Scale Dataset for Vehicle-to-Vehicle Cooperative Perception",
+    "authors": "R. Xu, X. Xia, J. Li, H. Li, S. Zhang, Z. Tu, Z. Meng, H. Xiang, X. Dong, R. Song et al.",
+    "year": 2023,
+    "venue": "CVPR 2023",
+    "category": "Collaborative Foundations",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2v4real%3A+A+real-world+large-scale+datasetforvehicle-to-vehiclecooperativeperception",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/ucla-mobility/V2V4Real",
+    "codeNote": "official code / data tools",
+    "note": null
+  },
+  {
+    "id": 25,
+    "title": "Collaboration Helps Camera Overtake LiDAR in 3D Detection",
+    "authors": "Y.Hu, Y.Lu, R.Xu, W.Xie, S.Chen, andY.Wang",
+    "year": 2023,
+    "venue": "CVPR 2023",
+    "category": "Collaborative Foundations",
+    "topics": [
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Collaboration+helpscameraovertakelidarin3Ddetection",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/DerrickXuNu/CoBEVT",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 26,
+    "title": "Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps",
+    "authors": "Y. Hu, S. Fang, Z. Lei, Y. Zhong, and S. Chen",
+    "year": 2022,
+    "venue": "NeurIPS 2022",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2209.12836",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/MediaBrain-SJTU/where2comm",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 27,
+    "title": "How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception",
+    "authors": "D. Yang, K. Yang, Y. Wang, J. Liu, Z. Xu, R. Yin, P. Zhai, and L. Zhang",
+    "year": 2023,
+    "venue": "NeurIPS 2023",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency"
+    ],
+    "paperUrl": "https://openreview.net/forum?id=Dbaxm9ujq6",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/ydk122024/How2comm",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 28,
+    "title": "Vehicle-Infrastructure Cooperative 3D Object Detection via Feature Flow Prediction",
+    "authors": "H.Yu, Y.Tang, E.Xie, J.Mao, J.Yuan, P.Luo, andZ.Nie",
+    "year": 2023,
+    "venue": "arXiv 2023",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2303.10552",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/AIR-THU/DAIR-V2X",
+    "codeNote": "project codebase",
+    "note": null
+  },
+  {
+    "id": 29,
+    "title": "HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer",
+    "authors": "H. Xiang, R. Xu, and J. Ma",
+    "year": 2023,
+    "venue": "ICCV 2023",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous",
+      "multi-modal"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2304.10628",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/XHwind/HM-ViT",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 30,
+    "title": "An Extensible Framework for Open Heterogeneous Collaborative Perception",
+    "authors": "Y. Lu, Y. Hu, Y. Zhong, D. Wang, Y. Wang, and S. Chen",
+    "year": 2024,
+    "venue": "ICLR 2024",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2401.13964",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/yifanlu0227/HEAL",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 31,
+    "title": "ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments",
+    "authors": "J.Zhang, K.Yang, Y.Wang, H.Wang, P.Sun, andL.Song",
+    "year": 2024,
+    "venue": "CVPR 2024",
+    "category": "Trustworthy Collaboration",
+    "topics": [
+      "robustness / security"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Ermvp%3A+Communication-efficient+and+collaboration-robust+multivehicleperceptioninchallengingenvironments",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/Terry9a/ERMVP",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 32,
+    "title": "Learning Mutual View Information Graph for Adaptive Adversarial Collaborative Perception",
+    "authors": "Y. Tao, S. Hu, H. An, Z. Fang, H. Cao, and Y. Fang",
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "category": "Trustworthy Collaboration",
+    "topics": [
+      "robustness / security"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2602.19596",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 33,
+    "title": "Collaborative Perception in Autonomous Driving: Methods, Datasets, and Challenges",
+    "authors": "Y.Han, H.Zhang, H.Li, Y.Jin, C.Lang, andY.Li",
+    "year": 2023,
+    "venue": "2023",
+    "category": "Surveys & Background",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Collaborative+perceptioninautonomousdriving%3AMethods%2Cdatasets%2Candchallenges",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 34,
+    "title": "V2X Cooperative Perception for Autonomous Driving: Recent Advances and Challenges",
+    "authors": "T. Huang, J. Liu, X. Zhou, D. C. Nguyen, M. R. Azghadi, Y. Xia, Q.-L. Han, and S. Sun",
+    "year": 2023,
+    "venue": "arXiv 2023",
+    "category": "Surveys & Background",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2310.03525",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 35,
+    "title": "A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real-World Challenges",
+    "authors": "M.Yazgan, T.Graf, M.Liu, T.Fleck, andJ.M.Zo¨llner",
+    "year": 2024,
+    "venue": "2024",
+    "category": "Surveys & Background",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Asurveyonintermediatefusionmethodsforcollaborativeperception+%2CVOL.XX%2CNO.X%2CMONTHYEAR+18+categorizedbyrealworldchallenges",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 36,
+    "title": "Collaborative Perception Datasets for Autonomous Driving: A Review",
+    "authors": "N.Wang, D.Shang, Y.Gong, X.Hu, Z.Song, L.Yang, Y.Huang, X. Wang, and J. Lu",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Surveys & Background",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2504.12696",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 37,
+    "title": "Cooper: Cooperative Perception for Connected Autonomous Vehicles Based on 3D Point Clouds",
+    "authors": "Q. Chen, S. Tang, Q. Yang, and S. Fu",
+    "year": 2019,
+    "venue": "ICDCS 2019",
+    "category": "Early Collaboration",
+    "topics": [
+      "raw-data sharing"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Cooper%3A+Cooperative+perceptionforconnectedautonomousvehiclesbasedon3Dpoint+clouds",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 38,
+    "title": "AutoCast: Scalable Infrastructure-Less Cooperative Perception for Distributed Collaborative Driving",
+    "authors": "H. Qiu, P. Huang, N. Asavisanu, X. Liu, K. Psounis, and R.Govindan",
+    "year": 2021,
+    "venue": "arXiv 2021",
+    "category": "Early Collaboration",
+    "topics": [
+      "raw-data sharing",
+      "resource allocation"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2112.14947",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 39,
+    "title": "F-Cooper: Feature-Based Cooperative Perception for Autonomous Vehicle Edge Computing Using 3D Point Clouds",
+    "authors": "Q.Chen, X.Ma, S.Tang, J.Guo, Q.Yang, andS.Fu",
+    "year": 2019,
+    "venue": "2019",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features"
+    ],
+    "paperUrl": "https://arxiv.org/pdf/1909.06459",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 40,
+    "title": "Latency-Aware Collaborative Perception",
+    "authors": "Z. Lei, S. Ren, Y. Hu, W. Zhang, and S. Chen",
+    "year": 2022,
+    "venue": "ECCV 2022",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Latency-aware+collaborativeperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 41,
+    "title": "Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow",
+    "authors": "S. Wei, Y. Wei, Y. Hu, Y. Lu, Y. Zhong, S. Chen, and Y. Zhang",
+    "year": 2023,
+    "venue": "NeurIPS 2023",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2309.16940",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/MediaBrain-SJTU/CoBEVFlow",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 42,
+    "title": "TraF-Align: Trajectory-Aware Feature Alignment for Asynchronous Multi-Agent Perception",
+    "authors": "Z.Song, L.Yang, F.Wen, andJ.Li",
+    "year": 2025,
+    "venue": "CVPR 2025",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Traf-align%3ATrajectory-aware+featurealignmentforasynchronousmulti-agentperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 43,
+    "title": "UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection",
+    "authors": "Y.Wang, Z.Wang, P.Cheng, P.Tian, Z.Yuan, J.Tian, W.Wang, and L. Zhao",
+    "year": 2025,
+    "venue": "2025",
+    "category": "Cross-Platform Collaboration",
+    "topics": [
+      "heterogeneous",
+      "aerial-ground"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Uvcpnet%3A+A+uav-vehicle+collaborative+perception+networkfor3Dobjectdetection",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 44,
+    "title": "Griffin: Aerial-Ground Cooperative Detection and Tracking Dataset and Benchmark",
+    "authors": "J. Wang, X. Cao, J. Zhong, Y. Zhang, Z. Han, H. Yu, C. Zhang, L. He, S. Xu, and J. Wang",
+    "year": 2026,
+    "venue": "AAAI 2026",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark",
+      "aerial-ground",
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Griffin%3A+Aerial-ground+cooperative+detectionandtrackingdatasetandbenchmark",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 45,
+    "title": "V2U4Real: A Real-World Large-Scale Dataset for Vehicle-to-UAV Cooperative Perception",
+    "authors": "W.Li, H.Xiang, T.Wang, S.Wu, Q.Xia, C.Wang, andC.Wen",
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark",
+      "aerial-ground",
+      "multi-modal"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2603.25275",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 46,
+    "title": "V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction",
+    "authors": "Z. Zhou, H. Xiang, Z. Zheng, S. Z. Zhao, M. Lei, Y. Zhang, T.Cai, X.Liu, J.Liu, M.Bajjietal.",
+    "year": 2025,
+    "venue": "IEEE RA-L 2025",
+    "category": "Communication & Fusion",
+    "topics": [
+      "resource allocation"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2xpnp%3AVehicle-to-everything+spatio-temporal+fusion+for+multi-agent+perception+and+prediction",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 47,
+    "title": "Task-Oriented Communication for Vehicle-to-Infrastructure Cooperative Perception",
+    "authors": "J. Shao, T. Li, and J. Zhang",
+    "year": 2024,
+    "venue": "2024",
+    "category": "Communication & Fusion",
+    "topics": [
+      "resource allocation"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Task-oriented+communication+for+vehicle-to-infrastructure+cooperative+perception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 48,
+    "title": "All Vehicles Can Lie: Efficient Adversarial Defense in Fully Untrusted-Vehicle Collaborative Perception via Pseudo-Random Bayesian Inference",
+    "authors": "Y.Yu, L.Wu, Z.Zhang, J.Qiu, L.Huo, andJ.Feng",
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "category": "Trustworthy Collaboration",
+    "topics": [
+      "robustness / security"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2603.08498",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 49,
+    "title": "Towards Vehicle-to-Everything Autonomous Driving: A Survey on Collaborative Perception",
+    "authors": "S. Liu, C. Gao, Y. Chen, X. Peng, X. Kong, K. Wang, R. Xu, W.Jiang, H.Xiang, J.Maetal.",
+    "year": 2023,
+    "venue": "arXiv 2023",
+    "category": "Surveys & Background",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2308.16714",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 50,
+    "title": "KeyCoop: Communication-Efficient Raw-Level Cooperative Perception for Connected Autonomous Vehicles via Keypoints Extraction",
+    "authors": "Q. Xie, X. Zhou, C. Wang, T. Qiu, and W. Qu",
+    "year": 2024,
+    "venue": "2024",
+    "category": "Early Collaboration",
+    "topics": [
+      "raw-data sharing"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Keycoop%3A+Communication-efficient+raw-level+cooperative+perception+for+connected+autonomous+vehicles+via+keypoints+extraction",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 51,
+    "title": "Planning-Oriented Cooperative Perception Among Heterogeneous Vehicles",
+    "authors": "H. Zheng, F. Ye, and Y. Yang",
+    "year": 2025,
+    "venue": "ICRA 2025",
+    "category": "Early Collaboration",
+    "topics": [
+      "raw-data sharing",
+      "heterogeneous"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Planning-oriented+cooperative+perceptionamongheterogeneousvehicles",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 52,
+    "title": "CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion",
+    "authors": "Y.Han, H.Zhang, Q.Xia, Y.Jin, andY.Li",
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "category": "Early Collaboration",
+    "topics": [
+      "raw-data sharing"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2603.00682",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 53,
+    "title": "V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction",
+    "authors": "T.-H. Wang, S. Manivasagam, M. Liang, B. Yang, W. Zeng, and R.Urtasun",
+    "year": 2020,
+    "venue": "ECCV 2020",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2vnet%3AVehicle-to-vehiclecommunicationforjoint+perceptionandprediction",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/coperception/coperception",
+    "codeNote": "framework implementation",
+    "note": null
+  },
+  {
+    "id": 54,
+    "title": "Learning Distilled Collaboration Graph for Multi-Agent Perception",
+    "authors": "Y. Li, S. Ren, P. Wu, S. Chen, C. Feng, and W. Zhang",
+    "year": 2021,
+    "venue": "NeurIPS 2021",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Learning+distilled+collaboration+graph+for+multi-agent+perception",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/ai4ce/DiscoNet",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 55,
+    "title": "V2X-ViT v2: Improved Vision Transformers for Vehicle-to-Everything Cooperative Perception",
+    "authors": "R.Xu, C.-J.Chen, Z.Tu, andM.-H.Yang",
+    "year": 2024,
+    "venue": "IEEE TPAMI 2024",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2x-vitv2%3AImproved+visiontransformersforvehicle-to-everythingcooperativeperception",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/DerrickXuNu/OpenCOOD",
+    "codeNote": "project codebase",
+    "note": null
+  },
+  {
+    "id": 56,
+    "title": "TransIFF: An Instance-Level Feature Fusion Framework for Vehicle-Infrastructure Cooperative 3D Detection with Transformers",
+    "authors": "Z. Chen, Y. Shi, and J. Jia",
+    "year": 2023,
+    "venue": "ICCV 2023",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Transiff%3A+An+instance-level+feature+fusion+framework+for+vehicle-infrastructure+cooperative+3D+detectionwithtransformers",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 57,
+    "title": "Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers",
+    "authors": "R. Xu, Z. Tu, H. Xiang, W. Shao, B. Zhou, and J. C. Ma",
+    "year": 2022,
+    "venue": "CoRL 2022",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Cooperative+bird%E2%80%99s+eye+view+semantic+segmentation+with+sparse+transformers",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/DerrickXuNu/CoBEVT",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 58,
+    "title": "Complementarity-Enhanced and Redundancy-Minimized Collaboration Network for Multi-Agent Perception",
+    "authors": "G. Luo, H. Zhang, Q. Yuan, and J. Li",
+    "year": 2022,
+    "venue": "ACM MM 2022",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Complementarityenhancedandredundancy-minimizedcollaborationnetworkfor+multi-agentperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 59,
+    "title": "V2VFormer++: Multi-Modal Vehicle-to-Vehicle Cooperative Perception via Global-Local Transformer",
+    "authors": "H.Yin, D.Tian, C.Lin, X.Duan, J.Zhou, D.Zhao, andD.Cao",
+    "year": 2023,
+    "venue": "IEEE T-ITS 2023",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features",
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2vformer%2B%2B%3A+Multi-modal+vehicle-to-vehicle+cooperative+perceptionviaglobal-localtransformer",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 60,
+    "title": "CoRange: Collaborative Range-Aware Adaptive Fusion for Multi-Agent Perception",
+    "authors": "Q.Shu, J.Chen, Y.Lu, Y.Zhang, andY.Wang",
+    "year": 2024,
+    "venue": "IEEE T-IV 2024",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Corange%3ACollaborativerange-awareadaptivefusionformulti-agentperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 61,
+    "title": "Occlusion-Guided Multi-Modal Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection",
+    "authors": "H. Chu, H. Liu, J. Zhuo, J. Chen, and H. Ma",
+    "year": 2025,
+    "venue": "2025",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features",
+      "heterogeneous",
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Occlusionguidedmulti-modalfusionforvehicle-infrastructurecooperative+3Dobjectdetection",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 62,
+    "title": "EMIFF: Enhanced Multi-Scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection",
+    "authors": "Z.Wang, S.Fan, X.Huo, T.Xu, Y.Wang, J.Liu, Y.Chen, andY.- Q.Zhang",
+    "year": 2024,
+    "venue": "ICRA 2024",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features",
+      "heterogeneous",
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Emiff%3AEnhancedmulti-scaleimagefeaturefusionfor+vehicle-infrastructurecooperative3Dobjectdetection",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 63,
+    "title": "V2X-M2C: Efficient Multi-Module Collaborative Perception with Two Connections",
+    "authors": "H. B. M. K. H. Ahn",
+    "year": 2024,
+    "venue": "arXiv 2024",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features",
+      "heterogeneous"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2407.11546",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 64,
+    "title": "CoST: Efficient Collaborative Perception from a Unified Spatiotemporal Perspective",
+    "authors": "Z.Tang, Y.Liu, Y.Sun, Y.Gao, J.Chen, R.Xu, andS.Liu",
+    "year": 2025,
+    "venue": "IEEE RA-L 2025",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features",
+      "alignment"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2508.00359",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 65,
+    "title": "DATA: Domain-and-Time Alignment for High-Quality Feature Fusion in Collaborative Perception",
+    "authors": "C. Tian, J. Ma, Y. Huang, Z. Chen, H. Wei, H. Zhang, and W. Hong",
+    "year": 2025,
+    "venue": "ICCV 2025",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features",
+      "alignment"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Data%3A+Domain-and-time+alignment+for+high-quality+featurefusionincollaborativeperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 66,
+    "title": "CATNet: Collaborative Alignment and Transformation Network for Cooperative Perception",
+    "authors": "G.Chen, C.Zhang, T.Tang, P.Lv, F.Li, andX.Xie",
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "category": "Intermediate · Dense Features",
+    "topics": [
+      "dense features",
+      "alignment"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2603.05255",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 67,
+    "title": "Fast2comm: Collaborative Perception Combined with Prior Knowledge",
+    "authors": "Z. Zhang, Y. Wu, and H. Zhang",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency",
+      "resource allocation"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2505.00740",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 68,
+    "title": "UMC: A Unified Bandwidth-Efficient and Multi-Resolution Based Collaborative Perception Framework",
+    "authors": "T. Wang, G. Chen, K. Chen, Z. Liu, B. Zhang, A. Knoll, and C. Jiang",
+    "year": 2023,
+    "venue": "ICCV 2023",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2303.12400",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/ispc-lab/UMC",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 69,
+    "title": "EffiComm: Bandwidth-Efficient Multi-Agent Communication",
+    "authors": "M. Yazgan, A. X. Arasan, and J. M. Zo¨llner",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency",
+      "resource allocation"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2507.19354",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 70,
+    "title": "Communication-Efficient Collaborative Perception via Information Filling with Codebook",
+    "authors": "Y.Hu, J.Peng, S.Liu, J.Ge, S.Liu, andS.Chen",
+    "year": 2024,
+    "venue": "CVPR 2024",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2405.04966",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/PhyllisH/CodeFilling",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 71,
+    "title": "QuantV2X: A Fully Quantized Multi-Agent System for Cooperative Perception",
+    "authors": "S.Z.Zhao, H.Zhang, Z.Li, J.Peng, A.Chui, Z.Zhou, Z.Meng, H.Xiang, Z.Huang, F.Wangetal.",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2509.03704",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 72,
+    "title": "DiffCP: Ultra-Low-Bit Collaborative Perception via Diffusion Model",
+    "authors": "R. Mao, H. Wu, Y. Jia, Z. Nan, Y. Sun, S. Zhou, D. Gu¨ndu¨z, and Z. Niu",
+    "year": 2025,
+    "venue": "ICRA 2025",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Diffcp%3A+Ultra-low+bit+collaborative+perception+via+diffusionmodel",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 73,
+    "title": "Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving",
+    "authors": "Y.Yuan, H.Cheng, andM.Sester",
+    "year": 2022,
+    "venue": "IEEE RA-L 2022",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Keypoints-baseddeepfeature+fusionforcooperativevehicledetectionofautonomousdriving",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 74,
+    "title": "SparseComm: An Efficient Sparse Communication Framework for Vehicle-Infrastructure Cooperative 3D Detection",
+    "authors": "H.Liu, H.Chu, J.Zhuo, B.Zou, J.Chen, andH.Ma",
+    "year": 2025,
+    "venue": "2025",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Sparsecomm%3AAnefficientsparsecommunicationframeworkforvehicleinfrastructurecooperative3Ddetection",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 75,
+    "title": "SparseAlign: A Fully Sparse Framework for Cooperative Object Detection",
+    "authors": "Y.Yuan, Y.Xia, D.Cremers, andM.Sester",
+    "year": 2025,
+    "venue": "CVPR 2025",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Sparsealign%3AAfully+sparse+framework+for+cooperative+object+detection",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 76,
+    "title": "WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration",
+    "authors": "G. Chen, C. Zhang, and X. Zhao",
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "category": "Intermediate · Sparse & Efficient",
+    "topics": [
+      "communication efficiency",
+      "resource allocation"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2603.01708",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 77,
+    "title": "QUEST: Query Stream for Practical Cooperative Perception",
+    "authors": "S.Fan, H.Yu, W.Yang, J.Yuan, andZ.Nie",
+    "year": 2024,
+    "venue": "ICRA 2024",
+    "category": "Intermediate · Object & Query",
+    "topics": [
+      "object / query"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Quest%3AQuerystream+forpracticalcooperativeperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 78,
+    "title": "CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query",
+    "authors": "Z. Wang, S. Xu, X. Zhuang, T. Xu, Y. Wang, J. Liu, Y. Chen, and Y.-Q. Zhang",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Intermediate · Object & Query",
+    "topics": [
+      "object / query"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2502.19313",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 79,
+    "title": "CenterCoop: Center-Based Feature Aggregation for Communication-Efficient Vehicle-Infrastructure Cooperative 3D Object Detection",
+    "authors": "L.Zhou, Z.Gan, andJ.Fan",
+    "year": 2023,
+    "venue": "IEEE RA-L 2023",
+    "category": "Intermediate · Object & Query",
+    "topics": [
+      "object / query"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Centercoop%3ACenter-basedfeature+aggregation+for+communication-efficient+vehicle-infrastructure+cooperative+3D+object+detection",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 80,
+    "title": "CoCMT: Communication-Efficient Cross-Modal Transformer for Collaborative Perception",
+    "authors": "R. Wang, X. Gao, H. Xiang, R. Xu, and Z. Tu",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Intermediate · Object & Query",
+    "topics": [
+      "object / query",
+      "multi-modal"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2503.13504",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 81,
+    "title": "Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection",
+    "authors": "D.Yu, J.You, X.Pei, A.Qu, D.Wang, andS.Jia",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Intermediate · Object & Query",
+    "topics": [
+      "object / query"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2503.17175",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 82,
+    "title": "INSTINCT: Instance-Level Interaction Architecture for Query-Based Collaborative Perception",
+    "authors": "Y.Xu, L.Li, J.Wang, Y.Ouyang, andB.Yang",
+    "year": 2025,
+    "venue": "ICCV 2025",
+    "category": "Intermediate · Object & Query",
+    "topics": [
+      "object / query"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Instinct%3AInstancelevel+interaction+architecture+for+query-based+collaborative+perception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 83,
+    "title": "Model-Agnostic Multi-Agent Perception Framework",
+    "authors": "R. Xu, W. Chen, H. Xiang, L. Liu, and J. Ma",
+    "year": 2022,
+    "venue": "arXiv 2022",
+    "category": "Late Collaboration",
+    "topics": [
+      "decision-level"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2203.13168",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 84,
+    "title": "A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion",
+    "authors": "M.Fadili, M.A.Ghaoui, L.Lecrosnier, S.Pechberti, andR.Khemmar",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Late Collaboration",
+    "topics": [
+      "decision-level"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2507.02430",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 85,
+    "title": "Communication-Efficient Multi-Agent 3D Detection via Hybrid Collaboration",
+    "authors": "Y.Hu, J.Peng, Y.Yang, andS.Chen",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Hybrid Collaboration",
+    "topics": [
+      "cross-stage"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2508.07092",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 86,
+    "title": "mmCooper: A Multi-Agent Multi-Stage Communication-Efficient and Collaboration-Robust Cooperative Perception Framework",
+    "authors": "B. Liu, J. Teng, H. Xue, E. Wang, C. Zhu, P. Wang, and L. Wu",
+    "year": 2025,
+    "venue": "ICCV 2025",
+    "category": "Hybrid Collaboration",
+    "topics": [
+      "cross-stage"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=mmcooper%3AAmulti-agentmulti-stagecommunication-efficient+andcollaboration-robustcooperativeperceptionframework",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 87,
+    "title": "CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization",
+    "authors": "J.Xu, Y.Zhang, Z.Cai, andD.Huang",
+    "year": 2025,
+    "venue": "CVPR 2025",
+    "category": "Hybrid Collaboration",
+    "topics": [
+      "cross-stage"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Cosdh%3ACommunicationefficientcollaborativeperceptionviasupply-demandawareness+and+intermediate-late+hybridization",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 88,
+    "title": "Learning to Communicate and Correct Pose Errors",
+    "authors": "N.Vadivelu, M.Ren, J.Tu, J.Wang, andR.Urtasun",
+    "year": 2021,
+    "venue": "CoRL 2021",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Learning+tocommunicateandcorrectposeerrors",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 89,
+    "title": "Robust Collaborative 3D Object Detection in the Presence of Pose Errors",
+    "authors": "Y.Lu, Q.Li, B.Liu, M.Dianati, C.Feng, S.Chen, andY.Wang",
+    "year": 2022,
+    "venue": "arXiv 2022",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2211.07214",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/yifanlu0227/CoAlign",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 90,
+    "title": "Align Before Collaborate: Mitigating Feature Misalignment for Robust Multi-Agent Perception",
+    "authors": "K. Yang, D. Yang, K. Li, D. Xiao, Z. Shao, P. Sun, and L. Song",
+    "year": 2024,
+    "venue": "ECCV 2024",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Align+before+collaborate%3A+Mitigating+feature+misalignment+for+robust+multi-agent+perception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 91,
+    "title": "Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow",
+    "authors": "S. Wei, Y. Wei, Y. Hu, Y. Lu, Y. Zhong, S. Chen, and Y. Zhang",
+    "year": 2023,
+    "venue": "NeurIPS 2023",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2309.16940",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/MediaBrain-SJTU/CoBEVFlow",
+    "codeNote": "official code",
+    "note": "Duplicate of reference [41] in the source bibliography."
+  },
+  {
+    "id": 92,
+    "title": "FETR: Feature Transformer for Vehicle-Infrastructure Cooperative 3D Object Detection",
+    "authors": "W.Yan, H.Cao, J.Chen, andT.Wu",
+    "year": 2024,
+    "venue": "2024",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Fetr%3AFeaturetransformer+forvehicle-infrastructurecooperative3Dobjectdetection",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 93,
+    "title": "Fresh2comm: Information-Freshness-Optimized Collaborative Perception",
+    "authors": "Z. Wu, Z. Peng, and L. Yu",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment",
+      "resource allocation"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2502.07852",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 94,
+    "title": "COSTFE: Spatio-Temporal Feature Enhancement for Collaborative Perception",
+    "authors": "M. Wang, X. He, Y. Li, and Y. Yue",
+    "year": 2025,
+    "venue": "IEEE T-ITS 2025",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Costfe%3A+Spatio-temporal+feature+enhancement+for+collaborative+perception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 95,
+    "title": "V2X-PC: Vehicle-to-Everything Collaborative Perception via Point Cluster",
+    "authors": "S. Liu, Z. Ding, J. Fu, H. Li, S. Chen, S. Zhang, and X. Zhou",
+    "year": 2024,
+    "venue": "arXiv 2024",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2403.16635",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 96,
+    "title": "Multi-Agent Collaborative Perception via Motion-Aware Robust Communication Network",
+    "authors": "S.Hong, Y.Liu, Z.Li, S.Li, andY.He",
+    "year": 2024,
+    "venue": "CVPR 2024",
+    "category": "Spatiotemporal Alignment",
+    "topics": [
+      "alignment"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Multi-agentcollaborative+perceptionviamotion-awarerobustcommunicationnetwork",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 97,
+    "title": "Who2com: Collaborative Perception via Learnable Handshake Communication",
+    "authors": "Y.-C. Liu, J. Tian, C.-Y. Ma, N. Glaser, C.-W. Kuo, and Z. Kira",
+    "year": 2020,
+    "venue": "ICRA 2020",
+    "category": "Communication & Fusion",
+    "topics": [
+      "resource allocation"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Who2com%3A+Collaborative+perception+via+learnable+handshake+communication",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/GT-RIPL/MultiAgentPerception",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 98,
+    "title": "When2com: Multi-Agent Perception via Communication Graph Grouping",
+    "authors": "Y.-C.Liu, J.Tian, N.Glaser, andZ.Kira",
+    "year": 2020,
+    "venue": "CVPR 2020",
+    "category": "Communication & Fusion",
+    "topics": [
+      "resource allocation"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2006.00176",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/GT-RIPL/MultiAgentPerception",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 99,
+    "title": "CoMamba: Real-Time Cooperative Perception Unlocked with State Space Models",
+    "authors": "J.Li, X.Liu, B.Li, R.Xu, J.Li, H.Yu, andZ.Tu",
+    "year": 2024,
+    "venue": "arXiv 2024",
+    "category": "Communication & Fusion",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2409.10699",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 100,
+    "title": "CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model",
+    "authors": "Y. Li, Q. Yuan, G. Luo, X. Fu, X. Zhu, Y. Yang, R. Pan, and J. Li",
+    "year": 2024,
+    "venue": "IEEE RA-L 2024",
+    "category": "Communication & Fusion",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2409.07714",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 101,
+    "title": "DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection",
+    "authors": "X.Li, J.Yin, W.Li, C.Xu, R.Yang, andJ.Shen",
+    "year": 2024,
+    "venue": "AAAI 2024",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2312.15742",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/Serenos/DI-V2X",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 102,
+    "title": "V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection",
+    "authors": "X. Huang, J. Wang, Q. Xia, S. Chen, B. Yang, X. Li, C. Wang, and C. Wen",
+    "year": 2025,
+    "venue": "CVPR 2025",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous",
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2x-r%3A+Cooperative+lidar-4D+radar+fusion+with+denoisingdiffusionfor3Dobjectdetection",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 103,
+    "title": "Linking Modality Isolation in Heterogeneous Collaborative Perception",
+    "authors": "C. Liu, Z. Chao, and S. Chen",
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2603.00609",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/cxliu0314/CodeAlign",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 104,
+    "title": "HeteCooper: Feature Collaboration Graph for Heterogeneous Collaborative Perception",
+    "authors": "C. Shao, G. Luo, Q. Yuan, Y. Chen, Y. Liu, K. Gong, and J. Li",
+    "year": 2024,
+    "venue": "ECCV 2024",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Hetecooper%3AFeaturecollaborationgraphforheterogeneouscollaborativeperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 105,
+    "title": "HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles",
+    "authors": "D. Qu, Q. Chen, Y. Zhu, Y. Zhu, S. S. Avedisov, S. Fu, and Q. Yang",
+    "year": 2024,
+    "venue": "ECCV 2024",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Head%3A+A+bandwidth-efficient+cooperative+perception+approach+for+heterogeneous+connected+and+autonomous+vehicles",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 106,
+    "title": "One Is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception",
+    "authors": "Y. Xia, Q. Yuan, G. Luo, X. Fu, Y. Li, X. Zhu, T. Luo, S. Chen, andJ.Li",
+    "year": 2025,
+    "venue": "CVPR 2025",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Oneisplenty%3AApolymorphicfeatureinterpreterfor+immutable+heterogeneous+collaborative+perception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 107,
+    "title": "QCTF: A Quantized Communication and Transferable Fusion Framework for Multi-Agent Collaborative Perception",
+    "authors": "J.Chen, Q.Shu, Y.Lu, Y.Zhang, andY.Wang",
+    "year": 2025,
+    "venue": "IEEE T-ITS 2025",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Qctf%3AAquantized+communication+and+transferable+fusion+framework+for+multiagentcollaborativeperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 108,
+    "title": "OpenCOOD-Air: Prompting Heterogeneous Ground-Air Collaborative Perception with Spatial Conversion and Offset Prediction",
+    "authors": "X.Wu, S.Bai, C.Li, Z.Luo, Y.Tian, F.Zhu, Y.Lv, andY.Tian",
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "category": "Heterogeneous Collaboration",
+    "topics": [
+      "heterogeneous",
+      "aerial-ground",
+      "multi-modal"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2603.13919",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 109,
+    "title": "Uncertainty Quantification of Collaborative Detection for Self-Driving",
+    "authors": "S. Su, Y. Li, S. He, S. Han, C. Feng, C. Ding, and F. Miao",
+    "year": 2022,
+    "venue": "arXiv 2022",
+    "category": "Trustworthy Collaboration",
+    "topics": [
+      "robustness / security"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2209.08162",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 110,
+    "title": "Efficient Collaborative Perception with Integrated Uncertainty Estimation via Evidence Regression",
+    "authors": "W. Li, L. Ma, H. Chang, X. He, and L. Huang",
+    "year": 2025,
+    "venue": "IEEE T-ITS 2025",
+    "category": "Trustworthy Collaboration",
+    "topics": [
+      "robustness / security"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Efficient+collaborativeperceptionwithintegrateduncertaintyestimationvia+evidenceregression",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 111,
+    "title": "RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions",
+    "authors": "S.Du, S.Qu, T.Wang, X.Zhang, Y.Zhu, J.Mao, F.Lu, Q.Lin, and G.Chen",
+    "year": 2025,
+    "venue": "CVPR 2025",
+    "category": "Trustworthy Collaboration",
+    "topics": [
+      "robustness / security",
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Rcp-bench%3ABenchmarkingrobustnessforcollaborative+perception+under+diverse+corruptions",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 112,
+    "title": "CoopDiff: Anticipating 3D Human-Object Interactions via Contact-Consistent Decoupled Diffusion",
+    "authors": "X.Lin, T.Liang, J.-F.Hu, K.-Y.Lin, Y.Kang, C.Tian, J.Lai, and W.-S. Zheng",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Trustworthy Collaboration",
+    "topics": [
+      "robustness / security"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2508.07162",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 113,
+    "title": "Pretend Benign: A Stealthy Adversarial Attack by Exploiting Vulnerabilities in Cooperative Perception",
+    "authors": "H. Lin, D. Pan, Q. Xia, H. Wu, C. Wang, S. Shen, and C. Wen",
+    "year": 2025,
+    "venue": "ICCV 2025",
+    "category": "Trustworthy Collaboration",
+    "topics": [
+      "robustness / security"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Pretend+benign%3A+A+stealthy+adversarial+attack+by+exploiting+vulnerabilitiesincooperativeperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 114,
+    "title": "CARLA: An Open Urban Driving Simulator",
+    "authors": "A. Dosovitskiy, G. Ros, F. Codevilla, A. Lopez, and V. Koltun",
+    "year": 2017,
+    "venue": "CoRL 2017",
+    "category": "Platforms & Tooling",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Carla%3A+An+open+urban+driving+simulator",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/carla-simulator/carla",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 115,
+    "title": "LGSVL Simulator: A High-Fidelity Simulator for Autonomous Driving",
+    "authors": "G.Rong, B.H.Shin, H.Tabatabaee, Q.Lu, S.Lemke, M.Mozˇeiko, E.Boise, G.Uhm, M.Gerow, S.Mehtaetal.",
+    "year": 2020,
+    "venue": "2020",
+    "category": "Platforms & Tooling",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Lgsvlsimulator%3AA+high+fidelity+simulator+for+autonomous+driving",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/lgsvl/simulator",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 116,
+    "title": "AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles",
+    "authors": "S.Shah, D.Dey, C.Lovett, andA.Kapoor",
+    "year": 2017,
+    "venue": "2017",
+    "category": "Platforms & Tooling",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Airsim%3AHigh-fidelity+visualandphysicalsimulationforautonomousvehicles",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/microsoft/AirSim",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 117,
+    "title": "OpenCDA: An Open Cooperative Driving Automation Framework Integrated with Co-Simulation",
+    "authors": "R.Xu, Y.Guo, X.Han, X.Xia, H.Xiang, andJ.Ma",
+    "year": 2021,
+    "venue": "2021",
+    "category": "Platforms & Tooling",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Opencda%3Aan+opencooperativedrivingautomationframeworkintegratedwith+co-simulation",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/ucla-mobility/OpenCDA",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 118,
+    "title": "Microscopic Traffic Simulation Using SUMO",
+    "authors": "P. A. Lopez, M. Behrisch, L. Bieker-Walz, J. Erdmann, Y.-P. Flo¨ttero¨d, R. Hilbrich, L. Lu¨cken, J. Rummel, P. Wagner, and E.Wießner",
+    "year": 2018,
+    "venue": "2018",
+    "category": "Platforms & Tooling",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Microscopictrafficsimulationusingsumo",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/eclipse-sumo/sumo",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 119,
+    "title": "Coopernaut: End-to-End Driving with Cooperative Perception for Networked Vehicles",
+    "authors": "J. Cui, H. Qiu, D. Chen, P. Stone, and Y. Zhu",
+    "year": 2022,
+    "venue": "CVPR 2022",
+    "category": "Platforms & Tooling",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Coopernaut%3A+End-to-end+driving+with+cooperative+perception+for+networked+vehicles",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/UT-Austin-RPL/Coopernaut",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 120,
+    "title": "CoPerception: An SDK for Multi-Agent Collaborative Perception",
+    "authors": "CoPerception Community",
+    "year": null,
+    "venue": "Publication",
+    "category": "Platforms & Tooling",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://github.com/coperception/coperception",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/coperception/coperception",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 121,
+    "title": "ns-3: A Discrete-Event Network Simulator for Internet Systems",
+    "authors": "ns-3Project",
+    "year": null,
+    "venue": "Publication",
+    "category": "Platforms & Tooling",
+    "topics": [
+      "foundations"
+    ],
+    "paperUrl": "https://www.nsnam.org/",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/nsnam/ns-3-dev-git",
+    "codeNote": "official code",
+    "note": null
+  },
+  {
+    "id": 122,
+    "title": "V2XScene: Multi-View Consistent 3D Scene Simulation for Collaborative Perception",
+    "authors": "Y.Li, Y.Gong, andY.Zeng",
+    "year": 2026,
+    "venue": "WACV 2026",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2xscene%3AMulti-viewconsistent3d+scenesimulationforcollaborativeperception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 123,
+    "title": "SimBEV2X: A Large-Scale Dataset and Data Generation Tool for Multi-Task Vehicle-to-Everything Cooperative Perception",
+    "authors": "G. Mehr, S. Gohari, M. Abbas, and A. Eskandarian",
+    "year": 2026,
+    "venue": "arXiv 2026",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2607.23910",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 124,
+    "title": "V2X-ReaLO: An Open Online Framework and Dataset for Cooperative Perception in Reality",
+    "authors": "H.Xiang, Z.Zheng, X.Xia, S.Z.Zhao, L.Gao, Z.Zhou, T.Cai, Y. Zhang, and J. Ma",
+    "year": 2025,
+    "venue": "arXiv 2025",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2503.10034",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 125,
+    "title": "V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving",
+    "authors": "Y. Li, D. Ma, Z. An, Z. Wang, Y. Zhong, S. Chen, and C.Feng",
+    "year": 2022,
+    "venue": "IEEE RA-L 2022",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2x-sim%3AMulti-agentcollaborativeperceptiondataset+and+benchmark+for+autonomous+driving",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/ai4ce/V2X-Sim",
+    "codeNote": "official code / data tools",
+    "note": null
+  },
+  {
+    "id": 126,
+    "title": "DOLPHINS: Dataset for Collaborative Perception Enabled Harmonious and Interconnected Self-Driving",
+    "authors": "R. Mao, J. Guo, Y. Jia, Y. Sun, S. Zhou, and Z. Niu",
+    "year": 2022,
+    "venue": "2022",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2207.07609",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/explosion5/Dolphins",
+    "codeNote": "official code / data tools",
+    "note": null
+  },
+  {
+    "id": 127,
+    "title": "An Extensible Framework for Open Heterogeneous Collaborative Perception",
+    "authors": "Y. Lu, Y. Hu, Y. Zhong, D. Wang, Y. Wang, and S. Chen",
+    "year": 2024,
+    "venue": "ICLR 2024",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2401.13964",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/yifanlu0227/HEAL",
+    "codeNote": "official code",
+    "note": "Duplicate of reference [30] in the source bibliography."
+  },
+  {
+    "id": 128,
+    "title": "Multi-V2X: A Large-Scale Multi-Modal Multi-Penetration-Rate Dataset for Cooperative Perception",
+    "authors": "R. Li and X. Pei",
+    "year": 2024,
+    "venue": "arXiv 2024",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark",
+      "multi-modal"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2409.04980",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 129,
+    "title": "DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving",
+    "authors": "T. Wang, S. Kim, J. Wenxuan, E. Xie, C. Ge, J. Chen, Z. Li, and P. Luo",
+    "year": 2024,
+    "venue": "AAAI 2024",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Deepaccident%3A+A+motion+and+accident+prediction+benchmarkforv2xautonomousdriving",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 130,
+    "title": "Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions",
+    "authors": "M.KarvatandS.Givigi",
+    "year": 2024,
+    "venue": "arXiv 2024",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark",
+      "multi-modal"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2410.06380",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 131,
+    "title": "WHALES: A Multi-Agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving",
+    "authors": "Y.Wang, S.Chen, Z.Song, andS.Zhou",
+    "year": 2024,
+    "venue": "arXiv 2024",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2411.13340",
+    "paperLinkType": "direct",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 132,
+    "title": "V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting",
+    "authors": "H.Yu, W.Yang, H.Ruan, Z.Yang, Y.Tang, X.Gao, X.Hao, Y.Shi, Y.Pan, N.Sunetal.",
+    "year": 2023,
+    "venue": "CVPR 2023",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2x-seq%3AAlarge-scalesequentialdatasetfor+vehicle-infrastructurecooperativeperceptionandforecasting",
+    "paperLinkType": "search",
+    "codeUrl": "https://github.com/AIR-THU/DAIR-V2X-Seq",
+    "codeNote": "official code / data tools",
+    "note": null
+  },
+  {
+    "id": 133,
+    "title": "TUMTraf V2X Cooperative Perception Dataset",
+    "authors": "W.Zimmer, G.A.Wardana, S.Sritharan, X.Zhou, R.Song, and A. C. Knoll",
+    "year": 2024,
+    "venue": "CVPR 2024",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2403.01316",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit",
+    "codeNote": "official data tools",
+    "note": null
+  },
+  {
+    "id": 134,
+    "title": "RCooper: A Real-World Large-Scale Dataset for Roadside Cooperative Perception",
+    "authors": "R.Hao, S.Fan, Y.Dai, Z.Zhang, C.Li, Y.Wang, H.Yu, W.Yang, J. Yuan, and Z. Nie",
+    "year": 2024,
+    "venue": "CVPR 2024",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2403.10145",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/AIR-THU/DAIR-RCooper",
+    "codeNote": "official code / data tools",
+    "note": null
+  },
+  {
+    "id": 135,
+    "title": "V2X-Real: A Large-Scale Dataset for Vehicle-to-Everything Cooperative Perception",
+    "authors": "H.Xiang, Z.Zheng, X.Xia, R.Xu, L.Gao, Z.Zhou, X.Han, X.Ji, M.Li, Z.Mengetal.",
+    "year": 2024,
+    "venue": "ECCV 2024",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2403.16034",
+    "paperLinkType": "direct",
+    "codeUrl": "https://github.com/ucla-mobility/V2X-Real",
+    "codeNote": "official code / data tools",
+    "note": null
+  },
+  {
+    "id": 136,
+    "title": "MixedSignals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration",
+    "authors": "K. Z. Luo, M.-Q. Dao, Z. Liu, M. Campbell, W.-L. Chao, K. Q. Weinberger, E. Malis, V. Fremont, B. Hariharan, M. Shan et al.",
+    "year": 2025,
+    "venue": "ICCV 2025",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark",
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Mixedsignals%3AAdiversepointclouddatasetforheterogeneous+lidarv2xcollaboration",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 137,
+    "title": "V2XScenes: A Multiple-Challenging-Traffic-Conditions Dataset for Large-Range Vehicle-Infrastructure Collaborative Perception",
+    "authors": "B.Wang, Y.Wang, W.Gong, S.Chen, G.Liu, M.Xiong, andC.L. Ng",
+    "year": 2025,
+    "venue": "ICCV 2025",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=V2xscenes%3AAmultiplechallengingtrafficconditionsdataset+for+large-range+vehicle-infrastructure+collaborative+perception",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 138,
+    "title": "CATS-V2V: A Real-World Vehicle-to-Vehicle Cooperative Perception Dataset with Complex Adverse Traffic Scenarios",
+    "authors": "H.Li, B.Cao, Z.Liang, W.Li, J.Oh, Y.Chen, S.Liang, H.Zhou, C. Ma, J. Liu et al.",
+    "year": 2026,
+    "venue": "CVPR 2026",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Cats-v2v%3A+A+real-world+vehicle-to-vehicle+cooperativeperceptiondatasetwithcomplexadversetrafficscenarios",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  },
+  {
+    "id": 139,
+    "title": "HoloVIC: Large-Scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperation",
+    "authors": "C.Ma, L.Qiao, C.Zhu, K.Liu, Z.Kong, Q.Li, X.Zhou, Y.Kan, and W. Wu",
+    "year": 2024,
+    "venue": "CVPR 2024",
+    "category": "Datasets & Benchmarks",
+    "topics": [
+      "dataset / benchmark",
+      "multi-modal"
+    ],
+    "paperUrl": "https://scholar.google.com/scholar?q=Holovic%3A+Large-scale+dataset+and+benchmark+for+multi-sensorholographicintersectionandvehicle-infrastructure+cooperative",
+    "paperLinkType": "search",
+    "codeUrl": null,
+    "codeNote": null,
+    "note": null
+  }
+]
