@@ -123,8 +123,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=3DSSD%3APoint-based3Dsingle+stageobjectdetector",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/JIA-Lab-research/3DSSD",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -443,8 +443,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2303.10552",
     "paperLinkType": "direct",
-    "codeUrl": "https://github.com/AIR-THU/DAIR-V2X",
-    "codeNote": "project codebase",
+    "codeUrl": "https://github.com/haibao-yu/FFNet-VIC3D",
+    "codeNote": "official implementation",
     "note": null
   },
   {
@@ -508,8 +508,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2602.19596",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/yihangtao/MVIG",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -530,10 +530,10 @@
   },
   {
     "id": 34,
-    "title": "V2X Cooperative Perception for Autonomous Driving: Recent Advances and Challenges",
+    "title": "Vehicle-to-Everything Cooperative Perception for Autonomous Driving",
     "authors": "T. Huang, J. Liu, X. Zhou, D. C. Nguyen, M. R. Azghadi, Y. Xia, Q.-L. Han, and S. Sun",
-    "year": 2023,
-    "venue": "arXiv 2023",
+    "year": 2025,
+    "venue": "Proceedings of the IEEE 2025",
     "category": "Surveys & Background",
     "topics": [
       "foundations"
@@ -588,8 +588,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Cooper%3A+Cooperative+perceptionforconnectedautonomousvehiclesbasedon3Dpoint+clouds",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/Aug583/F-COOPER",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -605,8 +605,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2112.14947",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/hangqiu/AutoCast",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -621,8 +621,8 @@
     ],
     "paperUrl": "https://arxiv.org/pdf/1909.06459",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/Aug583/F-COOPER",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -637,8 +637,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Latency-aware+collaborativeperception",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/MediaBrain-SJTU/SyncNet",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -669,8 +669,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Traf-align%3ATrajectory-aware+featurealignmentforasynchronousmulti-agentperception",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/zhyingS/TraF-Align",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -704,8 +704,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Griffin%3A+Aerial-ground+cooperative+detectionandtrackingdatasetandbenchmark",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/wang-jh18-SVM/Griffin",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -722,8 +722,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2603.25275",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/VjiaLi/V2U4Real",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -738,8 +738,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=V2xpnp%3AVehicle-to-everything+spatio-temporal+fusion+for+multi-agent+perception+and+prediction",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/Zewei-Zhou/V2XPnP",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -835,8 +835,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2603.00682",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/CatOneTwo/CoLC",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1000,13 +1000,13 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Emiff%3AEnhancedmulti-scaleimagefeaturefusionfor+vehicle-infrastructurecooperative3Dobjectdetection",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/Bosszhe/EMIFF",
+    "codeNote": "official repository",
     "note": null
   },
   {
     "id": 63,
-    "title": "V2X-M2C: Efficient Multi-Module Collaborative Perception with Two Connections",
+    "title": "ParCon: Noise-Robust Collaborative Perception via Multi-Module Parallel Connection",
     "authors": "H. B. M. K. H. Ahn",
     "year": 2024,
     "venue": "arXiv 2024",
@@ -1034,8 +1034,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2508.00359",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/tzhhhh123/CoST",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1051,8 +1051,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Data%3A+Domain-and-time+alignment+for+high-quality+featurefusionincollaborativeperception",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/ChengchangTian/DATA",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1150,8 +1150,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2509.03704",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/ucla-mobility/QuantV2X",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1182,8 +1182,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Keypoints-baseddeepfeature+fusionforcooperativevehicledetectionofautonomousdriving",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/YuanYunshuang/FPV_RCNN",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1214,8 +1214,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Sparsealign%3AAfully+sparse+framework+for+cooperative+object+detection",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/YuanYunshuang/SparseAlign",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1247,8 +1247,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Quest%3AQuerystream+forpracticalcooperativeperception",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/leofansq/QUEST",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1296,8 +1296,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2503.13504",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/taco-group/COCMT",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1328,8 +1328,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Instinct%3AInstancelevel+interaction+architecture+for+query-based+collaborative+perception",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/CrazyShout/INSTINCT",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1344,8 +1344,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2203.13168",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/DerrickXuNu/model_anostic",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1408,8 +1408,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Cosdh%3ACommunicationefficientcollaborativeperceptionviasupply-demandawareness+and+intermediate-late+hybridization",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/Xu2729/CoSDH",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1424,8 +1424,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Learning+tocommunicateandcorrectposeerrors",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/yifanlu0227/CoAlign",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1553,8 +1553,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Multi-agentcollaborative+perceptionviamotion-awarerobustcommunicationnetwork",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/IndigoChildren/collaborative-perception-MRCNet",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1601,8 +1601,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2409.10699",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/taco-group/CoMamba",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1650,8 +1650,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=V2x-r%3A+Cooperative+lidar-4D+radar+fusion+with+denoisingdiffusionfor3Dobjectdetection",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/ylwhxht/V2X-R",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1714,8 +1714,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Oneisplenty%3AApolymorphicfeatureinterpreterfor+immutable+heterogeneous+collaborative+perception",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/yuchen-xia/PolyInter",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1764,8 +1764,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2209.08162",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/coperception/double-m-quantification",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1797,8 +1797,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Rcp-bench%3ABenchmarkingrobustnessforcollaborative+perception+under+diverse+corruptions",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/LuckyDush/RCP-Bench",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1973,8 +1973,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=V2xscene%3AMulti-viewconsistent3d+scenesimulationforcollaborativeperception",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/deyang2000/V2XScene",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -1989,8 +1989,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2607.23910",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/GoodarzMehr/SimBEV2X",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -2070,8 +2070,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2409.04980",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/RadetzkyLi/Multi-V2X",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -2086,8 +2086,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Deepaccident%3A+A+motion+and+accident+prediction+benchmarkforv2xautonomousdriving",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/tianqi-wang1996/DeepAccident",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -2103,8 +2103,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2410.06380",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/QUARRG/Adver-City",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -2119,8 +2119,8 @@
     ],
     "paperUrl": "https://arxiv.org/abs/2411.13340",
     "paperLinkType": "direct",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/chensiweiTHU/WHALES",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -2200,8 +2200,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=Mixedsignals%3AAdiversepointclouddatasetforheterogeneous+lidarv2xcollaboration",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/acfr/Mixed-Signals-Dataset",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -2216,8 +2216,8 @@
     ],
     "paperUrl": "https://scholar.google.com/scholar?q=V2xscenes%3AAmultiplechallengingtrafficconditionsdataset+for+large-range+vehicle-infrastructure+collaborative+perception",
     "paperLinkType": "search",
-    "codeUrl": null,
-    "codeNote": null,
+    "codeUrl": "https://github.com/ADVRC-Wangbw/V2XScenes",
+    "codeNote": "official repository",
     "note": null
   },
   {
@@ -2247,8 +2247,8 @@
       "dataset / benchmark",
       "multi-modal"
     ],
-    "paperUrl": "https://scholar.google.com/scholar?q=Holovic%3A+Large-scale+dataset+and+benchmark+for+multi-sensorholographicintersectionandvehicle-infrastructure+cooperative",
-    "paperLinkType": "search",
+    "paperUrl": "https://openaccess.thecvf.com/content/CVPR2024/html/Ma_HoloVIC_Large-scale_Dataset_and_Benchmark_for_Multi-Sensor_Holographic_Intersection_and_CVPR_2024_paper.html",
+    "paperLinkType": "direct",
     "codeUrl": null,
     "codeNote": null,
     "note": null
