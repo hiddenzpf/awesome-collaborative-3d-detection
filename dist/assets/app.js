@@ -70,20 +70,33 @@ function getFilteredPapers() {
   });
 }
 
+function titleParts(title) {
+  const separator = title.indexOf(":");
+  if (separator <= 0) return { lead: title, detail: "" };
+  return {
+    lead: title.slice(0, separator).trim(),
+    detail: title.slice(separator + 1).trim(),
+  };
+}
+
 function paperEntry(paper) {
-  const paperLabel = paper.paperLinkType === "search" ? "Scholar" : "Paper";
+  const { lead, detail } = titleParts(paper.title);
+  const paperLabel = paper.paperLinkType === "search" ? "scholar" : "paper";
   const codeLink = paper.codeUrl
-    ? `<a href="${escapeHtml(paper.codeUrl)}" target="_blank" rel="noreferrer">[Code]</a>`
-    : `<span class="link-unavailable">[Code]</span>`;
+    ? `<a href="${escapeHtml(paper.codeUrl)}" target="_blank" rel="noreferrer">[code]</a>`
+    : "";
   const note = paper.note ? `<p class="paper-note">${escapeHtml(paper.note)}</p>` : "";
 
   return `
     <article class="paper-entry">
-      <p class="venue">${escapeHtml(paper.venue || paper.year || "")}</p>
-      <h3><span class="reference-number">[${paper.id}]</span> ${escapeHtml(paper.title)}</h3>
-      <p class="authors">${escapeHtml(paper.authors || "Author information unavailable")}</p>
-      <p class="paper-links">
-        <a href="${escapeHtml(paper.paperUrl)}" target="_blank" rel="noreferrer">[${paperLabel}]</a>${codeLink}
+      <p class="paper-line">
+        <span class="paper-bullet" aria-hidden="true">•</span>
+        <strong class="venue">${escapeHtml(paper.venue || paper.year || "")}</strong>
+        <span class="paper-separator" aria-hidden="true">·</span>
+        <strong class="paper-title"><span class="reference-number">[${paper.id}]</span> ${escapeHtml(lead)}</strong>${detail ? ` <span class="paper-detail">(${escapeHtml(detail)})</span>` : ""}
+        <span class="paper-links">
+          <a href="${escapeHtml(paper.paperUrl)}" target="_blank" rel="noreferrer">[${paperLabel}]</a>${codeLink}
+        </span>
       </p>
       ${note}
     </article>`;
@@ -95,7 +108,7 @@ function renderPapers() {
     category,
     papers: papers
       .filter((paper) => paper.category === category)
-      .sort((a, b) => (Number(b.year) || 0) - (Number(a.year) || 0) || Number(a.id) - Number(b.id)),
+      .sort((a, b) => (Number(a.year) || 0) - (Number(b.year) || 0) || Number(a.id) - Number(b.id)),
   })).filter((group) => group.papers.length);
 
   elements.list.innerHTML = grouped
