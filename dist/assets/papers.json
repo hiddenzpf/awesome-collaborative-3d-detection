@@ -9,7 +9,7 @@
     "topics": [
       "foundations"
     ],
-    "paperUrl": "https://doi.org/10.1109/tpami.2020.3005434",
+    "paperUrl": "https://doi.org/10.48550/arXiv.1912.12033",
     "paperLinkType": "direct",
     "codeUrl": null,
     "codeNote": null,
@@ -517,7 +517,7 @@
     "title": "Collaborative Perception in Autonomous Driving: Methods, Datasets, and Challenges",
     "authors": "Y.Han, H.Zhang, H.Li, Y.Jin, C.Lang, andY.Li",
     "year": 2023,
-    "venue": "2023",
+    "venue": "IEEE ITSM 2023",
     "category": "Surveys & Background",
     "topics": [
       "foundations"

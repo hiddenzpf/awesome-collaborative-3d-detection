@@ -30,11 +30,14 @@ def anchor(index: int) -> str:
     return f"category-{index:02d}"
 
 
-def title_parts(title: str) -> tuple[str, str]:
+def title_parts(title: str, category: str) -> tuple[str, str]:
+    if category == "Surveys & Background":
+        return title, ""
+
     if ":" not in title:
         return title, ""
-    lead, detail = title.split(":", 1)
-    return lead.strip(), detail.strip()
+    lead, _ = title.split(":", 1)
+    return lead.strip(), title
 
 
 papers = json.loads(PAPERS_PATH.read_text(encoding="utf-8"))
@@ -70,7 +73,7 @@ for index, category in enumerate(CATEGORIES, start=1):
         if paper.get("codeUrl"):
             links += f' [[code]({paper["codeUrl"]})]'
 
-        lead, detail = title_parts(paper["title"])
+        lead, detail = title_parts(paper["title"], paper["category"])
         title = f'**[{paper["id"]}] {lead}**'
         if detail:
             title += f' ({detail})'
