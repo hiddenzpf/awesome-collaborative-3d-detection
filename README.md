@@ -29,7 +29,7 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 
 ## Surveys & Background
 
-- **IEEE TPAMI 2020** · **[1] Deep Learning for 3D Point Clouds** (A Survey) [[paper](https://doi.org/10.1109/tpami.2020.3005434)]
+- **IEEE TPAMI 2020** · **[1] Deep Learning for 3D Point Clouds** (A Survey) [[paper](https://doi.org/10.48550/arXiv.1912.12033)]
 - **IJCV 2023** · **[2] 3D Object Detection for Autonomous Driving** (A Comprehensive Survey) [[paper](https://doi.org/10.1007/s11263-023-01790-1)]
 - **IJCV 2023** · **[3] Multi-Modal 3D Object Detection in Autonomous Driving** (A Survey) [[scholar](https://scholar.google.com/scholar?q=Multi-modal3Dobjectdetectioninautonomousdriving%3Aasurvey)]
 - **2023** · **[33] Collaborative Perception in Autonomous Driving** (Methods, Datasets, and Challenges) [[scholar](https://scholar.google.com/scholar?q=Collaborative+perceptioninautonomousdriving%3AMethods%2Cdatasets%2Candchallenges)]
