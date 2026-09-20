@@ -32,7 +32,7 @@ A curated reading list based on *Multi-Agent Collaborative 3D Object Detection: 
 - **IEEE TPAMI 2020** · **[1] Deep Learning for 3D Point Clouds** (A Survey) [[paper](https://doi.org/10.48550/arXiv.1912.12033)]
 - **IJCV 2023** · **[2] 3D Object Detection for Autonomous Driving** (A Comprehensive Survey) [[paper](https://doi.org/10.1007/s11263-023-01790-1)]
 - **IJCV 2023** · **[3] Multi-Modal 3D Object Detection in Autonomous Driving** (A Survey) [[scholar](https://scholar.google.com/scholar?q=Multi-modal3Dobjectdetectioninautonomousdriving%3Aasurvey)]
-- **2023** · **[33] Collaborative Perception in Autonomous Driving** (Methods, Datasets, and Challenges) [[scholar](https://scholar.google.com/scholar?q=Collaborative+perceptioninautonomousdriving%3AMethods%2Cdatasets%2Candchallenges)]
+- **IEEE ITSM 2023** · **[33] Collaborative Perception in Autonomous Driving** (Methods, Datasets, and Challenges) [[scholar](https://scholar.google.com/scholar?q=Collaborative+perceptioninautonomousdriving%3AMethods%2Cdatasets%2Candchallenges)]
 - **arXiv 2023** · **[49] Towards Vehicle-to-Everything Autonomous Driving** (A Survey on Collaborative Perception) [[paper](https://arxiv.org/abs/2308.16714)]
 - **IEEE IV 2024** · **[35] A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real-World Challenges** [[paper](https://arxiv.org/abs/2404.16139)]
 - **Proceedings of the IEEE 2025** · **[34] Vehicle-to-Everything Cooperative Perception for Autonomous Driving** [[paper](https://arxiv.org/abs/2310.03525)]
